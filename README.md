@@ -20,7 +20,6 @@ The Seat Booking System is a web application that allows users to view available
 - A `.env` file with:
   ```env
   MONGO_URI=<your-mongo-db-connection-string>
-  JWT_SECRET=<your-jwt-secret>
   PORT=<port-number>
 
 ---
